@@ -1,5 +1,8 @@
 import React from 'react'
 
+export const metadata ={
+    title:'This is team page'
+}
 const page = () => {
   return (
     <div>
